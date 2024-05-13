@@ -1,9 +1,5 @@
-('C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\src\\build\\runit\\PYZ-00.pyz',
- [('__future__',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
-   'PYMODULE'),
-  ('_compat_pickle',
+('C:\\Users\\Biblioteca\\Desktop\\KLEBER\\Python\\runit\\src\\build\\runit\\PYZ-00.pyz',
+ [('_compat_pickle',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_compat_pickle.py',
    'PYMODULE'),
@@ -66,14 +62,6 @@
   ('csv',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\csv.py',
-   'PYMODULE'),
-  ('ctypes',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
-   'PYMODULE'),
-  ('ctypes._endian',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
    'PYMODULE'),
   ('dataclasses',
    'C:\\Program '
@@ -315,25 +303,9 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pickle.py',
    'PYMODULE'),
-  ('platform',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
-   'PYMODULE'),
   ('pprint',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\pprint.py',
-   'PYMODULE'),
-  ('psutil',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\__init__.py',
-   'PYMODULE'),
-  ('psutil._common',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\_common.py',
-   'PYMODULE'),
-  ('psutil._compat',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\_compat.py',
-   'PYMODULE'),
-  ('psutil._pswindows',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\_pswindows.py',
    'PYMODULE'),
   ('py_compile',
    'C:\\Program '

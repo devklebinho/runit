@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Biblioteca\Desktop\KLEBER\runit\venv
+set VIRTUAL_ENV=C:\Users\Biblioteca\Desktop\KLEBER\Python\runit\venv
 
 if not defined PROMPT set PROMPT=$P$G
 

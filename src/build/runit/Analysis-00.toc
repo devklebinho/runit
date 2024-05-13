@@ -1,8 +1,8 @@
-(['C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\src\\runit.py'],
- ['C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\src'],
+(['C:\\Users\\Biblioteca\\Desktop\\KLEBER\\Python\\runit\\src\\runit.py'],
+ ['C:\\Users\\Biblioteca\\Desktop\\KLEBER\\Python\\runit\\src'],
  [],
- ['C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
-  'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ ['C:\\Users\\Biblioteca\\Desktop\\KLEBER\\Python\\runit\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\Python\\runit\\venv\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
  {},
  [],
  [],
@@ -14,10 +14,10 @@
  '3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit '
  '(AMD64)]',
  [('pyi_rth_inspect',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\Python\\runit\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('runit',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\src\\runit.py',
+   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\Python\\runit\\src\\runit.py',
    'PYSOURCE')],
  [('inspect',
    'C:\\Program '
@@ -399,17 +399,17 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ast.py',
    'PYMODULE'),
-  ('tracemalloc',
+  ('stringprep',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\_py_abc.py',
    'PYMODULE'),
-  ('stringprep',
+  ('tracemalloc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\stringprep.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
    'PYMODULE'),
   ('subprocess',
    'C:\\Program '
@@ -418,34 +418,6 @@
   ('signal',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\signal.py',
-   'PYMODULE'),
-  ('psutil',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\__init__.py',
-   'PYMODULE'),
-  ('psutil._pswindows',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\_pswindows.py',
-   'PYMODULE'),
-  ('psutil._compat',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\_compat.py',
-   'PYMODULE'),
-  ('platform',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\platform.py',
-   'PYMODULE'),
-  ('psutil._common',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\_common.py',
-   'PYMODULE'),
-  ('ctypes',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\__init__.py',
-   'PYMODULE'),
-  ('ctypes._endian',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_endian.py',
-   'PYMODULE'),
-  ('__future__',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\__future__.py',
    'PYMODULE')],
  [('python311.dll',
    'C:\\Program '
@@ -479,13 +451,6 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('psutil\\_psutil_windows.pyd',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\venv\\Lib\\site-packages\\psutil\\_psutil_windows.pyd',
-   'EXTENSION'),
-  ('_ctypes.pyd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\_ctypes.pyd',
-   'EXTENSION'),
   ('VCRUNTIME140.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\VCRUNTIME140.dll',
@@ -493,17 +458,9 @@
   ('libcrypto-3.dll',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\libcrypto-3.dll',
-   'BINARY'),
-  ('python3.dll',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\python3.dll',
-   'BINARY'),
-  ('libffi-8.dll',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\DLLs\\libffi-8.dll',
    'BINARY')],
  [],
  [],
  [('base_library.zip',
-   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\runit\\src\\build\\runit\\base_library.zip',
+   'C:\\Users\\Biblioteca\\Desktop\\KLEBER\\Python\\runit\\src\\build\\runit\\base_library.zip',
    'DATA')])
